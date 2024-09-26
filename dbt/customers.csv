@@ -1,0 +1,11 @@
+Customer_ID,Customer_Name,Phone_Number,Email,Customer_Type
+1,Kaitlin Odom,385.915.5402x32074,jessemahoney@example.org,VIP
+2,Kayla Grant,8172236631,dixonjessica@example.net,VIP
+3,Amanda Bender,+1-616-583-1209x286,mendozawalter@example.com,VIP
+4,Steven Waters,308-251-5490x21009,richardgreer@example.com,VIP
+5,Julie Zimmerman,5483040694,thompsonjessica@example.org,Premium
+6,Jerry Greene,812-391-8589,patrickbradford@example.org,Premium
+7,Pedro Williams,+1-677-719-8831x35891,obrienjames@example.com,VIP
+8,Heather Lee,983.531.9511,rwyatt@example.net,Premium
+9,Melissa Obrien,372.952.5822x335,nmartinez@example.net,Premium
+10,Gabriella Fisher,+1-929-670-7247x610,woodbrandon@example.com,Regular

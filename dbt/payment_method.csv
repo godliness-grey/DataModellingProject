@@ -1,0 +1,5 @@
+Payment_Method_ID,Payment_Type
+1,Credit Card
+2,Debit Card
+3,PayPal
+4,Cash
