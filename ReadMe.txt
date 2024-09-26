@@ -46,3 +46,7 @@ vi.  Branch to Inventory: One-to-Many (One branch can have many inventory record
 
 2. Number two solution 
 The solution to the second problem can be found in the .docs named Fufu republic business model where the business process, follow up questions, dimensional models stating the Grains, Facts and Dimensions.
+
+> The second assignemt deals with dbt seeding of the data and the code used to generate this is the python file in the same folder, here the seeding is done, connection to database and creation of the replica tables on database and then populated using another command in python.
+> dbt project fufu_dbt was initialized also as part of the steps to create the models.
+> The questions to the followup assignment is found in the dbtAssignment2 file.pdf
